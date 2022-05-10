@@ -1,11 +1,8 @@
 ### Hi there in 👋
-I am karthiknnnNn
+//I am karthiknnnNn
 
-innoart technologiessss
-'
-kkkkkkkkkkkkkkkkkkkkk
-llllllllllllllllll
-kkkk
+//innoart technologiessss
+
 
 <!--
 **Karthik-code1010/Karthik-code1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
